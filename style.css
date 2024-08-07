@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: red;
+    border-color: yellow;
+}
+p{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    background-color: yellow;
+}
+h1:hover{
+    color: white;
+    background-color: red;
+}
